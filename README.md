@@ -277,6 +277,7 @@ Through building this calculator, I've gained experience with:
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- 
 
 ---
 
