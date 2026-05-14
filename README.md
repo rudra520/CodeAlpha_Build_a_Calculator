@@ -25,7 +25,7 @@ A fully functional, responsive calculator web application built with modern web 
 ### 📸 Live View Preview
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/4CAF50/ffffff?text=Calculator+Interface" alt="Calculator Live View" width="600" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github.com/rudra520/CodeAlpha_Build_a_Calculator/blob/8345bfdd8d5338d5a3bcb77940351185e31cef6b/CodeAlpha-Build-a-Calculator.png" alt="Calculator Live View" width="600" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   <p><em>Interactive Calculator Interface - Live at https://rudracodealpha1.netlify.app/</em></p>
 </div>
 ---
