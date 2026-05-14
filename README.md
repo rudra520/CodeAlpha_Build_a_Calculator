@@ -22,10 +22,12 @@ A fully functional, responsive calculator web application built with modern web 
 - ✅ Error handling for invalid operations
 
 ---
-## 🚀 Live Demo
+### 📸 Live View Preview
 
-🔗 **[View Live Project](https://rudracodealpha1.netlify.app/)** - https://rudracodealpha1.netlify.app/
-
+<div align="center">
+  <img src="https://via.placeholder.com/600x400/4CAF50/ffffff?text=Calculator+Interface" alt="Calculator Live View" width="600" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <p><em>Interactive Calculator Interface - Live at https://rudracodealpha1.netlify.app/</em></p>
+</div>
 ---
 
 ## 🛠️ Tech Stack
