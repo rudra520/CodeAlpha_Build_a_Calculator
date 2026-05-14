@@ -22,6 +22,11 @@ A fully functional, responsive calculator web application built with modern web 
 - ✅ Error handling for invalid operations
 
 ---
+## 🚀 Live Demo
+
+🔗 **[View Live Project](https://rudracodealpha1.netlify.app/)** - https://rudracodealpha1.netlify.app/
+
+---
 
 ## 🛠️ Tech Stack
 
